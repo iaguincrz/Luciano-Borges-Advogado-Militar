@@ -1,0 +1,6 @@
+{
+  "name": "Luciano Borges | Advogado Militar",
+  "description": "Luciano Borges, advogado militar com mais de 7 anos de atuação. Informação jurídica sobre Direito Militar, carreira, pensão e direitos dos militares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
